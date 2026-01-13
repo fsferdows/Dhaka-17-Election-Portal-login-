@@ -1,0 +1,8 @@
+{
+  "name": "Dhaka-17 Election Portal",
+  "description": "A comprehensive digital platform for the Dhaka-17 constituency, featuring candidate profiles, voter interaction portals, and AI-powered election assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
